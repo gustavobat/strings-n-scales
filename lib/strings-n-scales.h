@@ -1,0 +1,8 @@
+//
+// Created by Gustavo Batistela on 4/10/21.
+//
+
+#ifndef STRINGS_N_SCALES_STRINGS_N_SCALES_H
+#define STRINGS_N_SCALES_STRINGS_N_SCALES_H
+
+#endif //STRINGS_N_SCALES_STRINGS_N_SCALES_H
