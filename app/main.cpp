@@ -7,7 +7,7 @@ int main(int argc, const char **argv) {
         const auto usage = R"(
             strings-n-scales
 
-            Usage: strings-n-scales
+            Usage:
               strings-n-scales notes <n> strings <s>
               strings-n-scales (-h | --help)
               strings-n-scales --version
