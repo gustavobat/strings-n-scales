@@ -19,7 +19,7 @@ The last command might require `sudo`, according to the install prefix choice.
 
 ## Usage
 ```
-./strings-n-scales notes "D, A, F#" strings "E, A, D, G, G#"
+strings-n-scales notes "D, A, F#" strings "E, A, D, G, G#"
 ```
 
 ## TODO
